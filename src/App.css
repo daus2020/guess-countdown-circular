@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+input {
+  padding: 5px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 5px 10px;
+  font-size: 16px;
+  margin-right: 5px;
+}
+
+p {
+  font-size: 18px;
+}
+
+.circular-progress-bar {
+  width: 150px;
+  height: 150px;
+  margin: 20px auto;
+}
